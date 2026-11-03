@@ -1,0 +1,321 @@
+[
+    {
+        "name": "back_5x2",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": false
+    },
+    {
+        "name": "back_3x3",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [3,3],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": false
+    },
+    {
+        "name": "back_4x3",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,3],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": false
+    },
+
+
+
+
+
+    {
+        "name": "competences",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [3,3],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "blessures",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [3,3],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "roles",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [3,3],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "butin_armes",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "butin_babioles",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "butins",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "armes",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "babioles",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "consommables",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [5,2],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "evenements_plaine",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,3],
+        "margin": 10,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "evenements_foret",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,3],
+        "margin": 10,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "evenements_village",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,3],
+        "margin": 10,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "evenements_nuit",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,3],
+        "margin": 10,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "quetes",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [2,1],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": false
+    },
+    {
+        "name": "missions",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [2,5],
+        "margin": 20,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "marqueurs",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [7,11],
+        "margin": 0,
+        "bg_color": [0,0,0],
+        "shuffle": true
+    },
+    {
+        "name": "devises",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [7,11],
+        "margin": 0,
+        "bg_color": [0,0,0],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "tuiles_1x1",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [4,6],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "tuiles_2x1",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [2,6],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+    {
+        "name": "tuiles_2x2",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [2,3],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": true
+    },
+
+
+
+
+
+    {
+        "name": "temps",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "tuile_temps.png"
+        ]
+    },
+    {
+        "name": "bordures",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "all"
+        ]
+    },
+    {
+        "name": "coins",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "all"
+        ]
+    },
+    {
+        "name": "guide",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "guide_front.png",
+            "guide_back.png"
+        ]
+    },
+    {
+        "name": "actions",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "actions.png"
+        ]
+    },
+    {
+        "name": "scoreboard",
+        "enabled": true,
+        "type": "copy",
+        "filenames": [
+            "scoreboard.png"
+        ]
+    },
+
+
+
+
+
+    {
+        "name": "villages",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [2,2],
+        "margin": 0,
+        "bg_color": [0,0,0],
+        "shuffle": false
+    },
+    {
+        "name": "bestiaire",
+        "enabled": true,
+        "type": "build",
+        "dimensions": [1,4],
+        "margin": 0,
+        "bg_color": [255,255,255],
+        "shuffle": false
+    }
+]

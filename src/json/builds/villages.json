@@ -1,0 +1,170 @@
+[
+    {
+        "type": "insert text",
+        "collumn": "name",
+        "font": "Pauls Celtic Font 3",
+        "cpl": 32,
+        "color": [50, 0, 0, 0],
+        "pos": [250, 35, 1000, 200],
+        "specs": [
+            "fit",
+            "opacity 200"
+        ]
+    },
+
+
+
+
+
+    {
+        "type": "insert image",
+        "collumn": "illustration_a",
+        "pos": [200, 220, 350, 350],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_b",
+        "pos": [950, 520, 350, 350],
+        "specs": [
+            "fit",
+            "flip horizontal"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_c",
+        "pos": [200, 805, 350, 350],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_d",
+        "pos": [950, 1100, 350, 350],
+        "specs": [
+            "fit",
+            "flip horizontal"
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "type": "insert text",
+        "collumn": "name_a",
+        "font": "Seagram tfb",
+        "cpl": 32,
+        "color": [50, 0, 0, 0],
+        "pos": [550, 275, 700, 100],
+        "specs": [
+            "fit",
+            "opacity 150"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "name_b",
+        "font": "Seagram tfb",
+        "cpl": 32,
+        "color": [50, 0, 0, 0],
+        "pos": [250, 575, 700, 100],
+        "specs": [
+            "fit",
+            "opacity 150"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "name_c",
+        "font": "Seagram tfb",
+        "cpl": 32,
+        "color": [50, 0, 0, 0],
+        "pos": [550, 860, 700, 100],
+        "specs": [
+            "fit",
+            "opacity 150"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "name_d",
+        "font": "Seagram tfb",
+        "cpl": 32,
+        "color": [50, 0, 0, 0],
+        "pos": [250, 1155, 700, 100],
+        "specs": [
+            "fit",
+            "opacity 150"
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "type": "insert text",
+        "collumn": "description_a",
+        "font": "EBGaramond-Bold",
+        "cpl": 40,
+        "color": [0, 0, 0, 0],
+        "pos": [550, 375, 700, 150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_b",
+        "font": "EBGaramond-Bold",
+        "cpl": 40,
+        "color": [0, 0, 0, 0],
+        "pos": [250, 675, 700, 150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_c",
+        "font": "EBGaramond-Bold",
+        "cpl": 40,
+        "color": [0, 0, 0, 0],
+        "pos": [550, 960, 700, 150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_d",
+        "font": "EBGaramond-Bold",
+        "cpl": 40,
+        "color": [0, 0, 0, 0],
+        "pos": [250, 1255, 700, 150],
+        "specs": [
+            "fit"
+        ]
+    }
+]

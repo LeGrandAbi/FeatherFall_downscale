@@ -1,0 +1,141 @@
+[
+    {
+        "type": "insert text",
+        "collumn": "name",
+        "font": "EBGaramond-Bold",
+        "cpl": 32,
+        "color": [0,0,0,0],
+        "pos": [115,90,820,180],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "objectif_1",
+        "font": "EBGaramond-Bold",
+        "cpl": 35,
+        "color": [0,0,0,0],
+        "pos": [475,450,460,150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_1",
+        "font": "EBGaramond-Italic",
+        "cpl": 48,
+        "color": [0,0,0,0],
+        "pos": [475,360,460,100],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_1",
+        "pos": [84,342,280,280],
+        "specs": [
+            "fill",
+            "background"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "objectif_2",
+        "font": "EBGaramond-Bold",
+        "cpl": 35,
+        "color": [0,0,0,0],
+        "pos": [100,765,460,150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_2",
+        "font": "EBGaramond-Italic",
+        "cpl": 48,
+        "color": [0,0,0,0],
+        "pos": [100,675,460,100],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_2",
+        "pos": [679,655,280,280],
+        "specs": [
+            "fill",
+            "background"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "objectif_3",
+        "font": "EBGaramond-Bold",
+        "cpl": 35,
+        "color": [0,0,0,0],
+        "pos": [475,1075,460,150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_3",
+        "font": "EBGaramond-Italic",
+        "cpl": 48,
+        "color": [0,0,0,0],
+        "pos": [475,985,460,100],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_3",
+        "pos": [84,967,280,280],
+        "specs": [
+            "fill",
+            "background"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "objectif_4",
+        "font": "EBGaramond-Bold",
+        "cpl": 35,
+        "color": [0,0,0,0],
+        "pos": [100,1390,460,150],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description_4",
+        "font": "EBGaramond-Italic",
+        "cpl": 48,
+        "color": [0,0,0,0],
+        "pos": [100,1300,460,100],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert image",
+        "collumn": "illustration_4",
+        "pos": [679,1280,280,280],
+        "specs": [
+            "fill",
+            "background"
+        ]
+    },
+    {
+        "type": "insert label",
+        "pos": [20,20,100,100]
+    }
+]

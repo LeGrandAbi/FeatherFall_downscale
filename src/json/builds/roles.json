@@ -1,0 +1,57 @@
+[
+    {
+        "type": "insert image",
+        "collumn": "illustration",
+        "pos": [170,375,750,450],
+        "specs": [
+            "fit",
+            "background"
+        ]
+    },
+    {
+        "type": "insert static image",
+        "filepath": "src/images/illustrations/jeu_de_base/roles/_background.png",
+        "pos": [150,385,790,750],
+        "specs": [
+            "fill",
+            "background"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "name",
+        "font": "Cardinal-Alternate",
+        "cpl": 15,
+        "color": [0,0,0,0],
+        "pos": [150,60,800,335],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "pouvoir",
+        "font": "EBGaramond-Bold",
+        "cpl": 35,
+        "color": [30,30,50,0],
+        "pos": [140,995,800,250],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert text",
+        "collumn": "description",
+        "font": "EBGaramond-Regular",
+        "cpl": 26,
+        "color": [255,255,100,0],
+        "pos": [140,1265,800,275],
+        "specs": [
+            "fit"
+        ]
+    },
+    {
+        "type": "insert label",
+        "pos": [115,855,120,120]
+    }
+]
