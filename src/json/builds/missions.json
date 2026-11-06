@@ -14,9 +14,9 @@
         "type": "insert text",
         "collumn": "objectif",
         "font": "EBGaramond-Bold",
-        "cpl": 32,
+        "cpl": 37,
         "color": [0,0,0,0],
-        "pos": [510,475,990,350],
+        "pos": [510,475,1000,350],
         "specs": [
             "fit"
         ]
