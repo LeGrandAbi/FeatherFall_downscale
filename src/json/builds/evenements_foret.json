@@ -24,7 +24,7 @@
     {
         "type": "insert image",
         "collumn": "illustration",
-        "pos": [50,50,890,650],
+        "pos": [25,75,950,700],
         "specs": [
             "fit",
             "background"
